@@ -1,1 +1,1 @@
-# .github
+![Organization's GitHub Stats](https://github-readme-stats.example.com/api?org=codexasoft)
