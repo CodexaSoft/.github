@@ -1,1 +1,1 @@
-![Organization's GitHub Stats](https://github-readme-stats.example.com/api?org=codexasoft)
+[![Codexa Soft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodexaSoft)](https://github.com/CodexaSoft/github-readme-stats)
