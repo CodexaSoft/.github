@@ -1,10 +1,7 @@
-[![Codexa Soft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodexaSoftDev)](https://github.com/CodexaSoftDev/github-readme-stats)
 
 <!-- Codexa Soft Organization Profile README -->
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/2D333B/FFFFFF?text=Codexa+Soft" alt="Codexa Soft Banner" width="100%"/>
-  
+<div align="center">  
   # 🚀 Codexa Soft
   
   ### Innovating Through Code | Building Digital Excellence
@@ -61,41 +58,12 @@
 
 ---
 
-## 📊 Our GitHub Presence
-
-<div align="center">
-
-### 🚀 Active Projects & Contributions
-
-<!-- Replace with actual pinned repositories or project showcases -->
-### [Project Name 1](https://github.com/CodexaSoft/project1)
-> Brief description of your flagship project or most popular repository
-
-### [Project Name 2](https://github.com/CodexaSoft/project2)
-> Brief description of another key project
-
-### [Project Name 3](https://github.com/CodexaSoft/project3)
-> Brief description of a third important project
-
----
-
 ### 📈 Organization Stats
 
 <!-- You can use external services for dynamic stats -->
 ![Codexa Soft's GitHub Stats](https://img.shields.io/badge/Repositories-50+-blue?style=flat-square)
 ![Codexa Soft's Contributors](https://img.shields.io/badge/Contributors-20+-green?style=flat-square)
 ![Codexa Soft's Stars](https://img.shields.io/badge/Total%20Stars-500+-yellow?style=flat-square)
-
----
-
-### 👥 Top Contributors
-
-<!-- List key team members/contributors -->
-- [**Jane Doe**](https://github.com/janedoe) - Lead Architect
-- [**John Smith**](https://github.com/johnsmith) - Senior Frontend Developer
-- [**Emily Chen**](https://github.com/emilychen) - DevOps Engineer
-
-</div>
 
 ---
 
@@ -126,9 +94,9 @@ We're always looking for passionate developers, designers, and innovators to joi
 
 ### 📍 Visit Us
 **Codexa Soft HQ**  
-123 Tech Innovation Hub  
-Silicon Valley, CA 94025  
-United States
+Defence Road  
+Sialkot, 51310, Punjab  
+Pakistan
 
 ---
 
