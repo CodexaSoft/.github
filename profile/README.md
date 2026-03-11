@@ -9,7 +9,7 @@
   
   [![Website](https://img.shields.io/badge/Website-codexa.soft-2D333B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codexasoft.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Codexa%20Soft-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/codexa-soft)
-  [![Facebook](https://img.shields.io/badge/Facebook-CodexaSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/codexasoft)
+  [![Facebook](https://img.shields.io/badge/Facebook-CodexaSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/codexasoft.official)
   [![Instagram](https://img.shields.io/badge/Instagram-@codexasoft-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codexasoft)
   [![Email](https://img.shields.io/badge/Email-contact%40codexasoft.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@codexasoft.com)
 </div>
@@ -100,7 +100,7 @@ We're always looking for passionate developers, designers, and innovators to joi
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Visit%20Us-codexasoft.com-2D333B?style=for-the-badge)](https://codexasoft.com)
-[![Facebook](https://img.shields.io/badge/Follow%20Us-Facebook-1877F2?style=for-the-badge)](https://facebook.com/codexasoft)
+[![Facebook](https://img.shields.io/badge/Follow%20Us-Facebook-1877F2?style=for-the-badge)](https://facebook.com/codexasoft.official)
 [![Instagram](https://img.shields.io/badge/Follow%20Us-Instagram-E4405F?style=for-the-badge)](https://instagram.com/codexasoft)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/company/codexa-soft)
 [![GitHub](https://img.shields.io/badge/Fork%20Us-GitHub-181717?style=for-the-badge)](https://github.com/CodexaSoft)
@@ -116,7 +116,7 @@ Pakistan
 ---
 
 ### 🌐 Follow us for updates and tech insights!
-**Facebook**: [@CodexaSoft](https://facebook.com/codexasoft)  
+**Facebook**: [@CodexaSoft](https://facebook.com/codexasoft.official)  
 **Instagram**: [@codexasoft](https://instagram.com/codexasoft)  
 **LinkedIn**: [Codexa Soft](https://linkedin.com/company/codexa-soft)
 
